@@ -145,4 +145,4 @@ _Violating this rule may lead our intervention according to the [Github Terms of
 
 If you love this repository you may be interested in these projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=9P9&repo=Discord-QR-Token-Logger&show_owner=true)](https://github.com/9P9/Discord-QR-Token-Logger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=9P9&repo=Discord-QR-Token-Logger&show_owner=true)](https://github.com/Bxkb83/Discord-QR-Token-Logger)
